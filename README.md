@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BowenDai2004&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BowenDai2004&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=BowenDai2004)
 <!--
 **BowenDai2004/BowenDai2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
